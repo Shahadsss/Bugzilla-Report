@@ -2,7 +2,7 @@
 
 This repository contains a bug report from Bugzilla.  
 
-Bind ID: 1949716  
+Bug ID: 1949716  
 Title: [e10s] Google Maps becomes very slow  
 Type: Defect  
 Product: Core  
