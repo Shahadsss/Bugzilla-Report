@@ -1,0 +1,17 @@
+Bug ID: 1949716
+Title: [e10s] Google Maps becomes extremely slow
+Type: Defect
+Product: Core
+Component: Graphics
+Platform: Linux (x86_64)
+Priority: P3
+Severity: S3
+Status: Unconfirmed
+Reporter: mirrazi
+
+Description: 
+Google Maps becomes extremely slow when multiprocessing is enabled. 
+Steps to reproduce:
+1. Open Google Maps in Firefox with multiprocessing enabled.
+2. Observe performance lag (extremely slow response).
+Additional info: A performance profile is attached in the original Bugzilla report.
